@@ -1,0 +1,18 @@
+{
+     "message": "Belajar PHP Logging Lagi",
+     "context": {
+          "username": "iqbal"
+     },
+     "level": 200,
+     "level_name": "INFO",
+     "channel": "Iqbal\\Belajar\\PHP\\Logger\\FormatterTest",
+     "datetime": "2022-03-10T16:46:34.351331+01:00",
+     "extra": {
+          "hostname": "DESKTOP-N24CF2E",
+          "memory_usage": "4 MB",
+          "git": {
+               "branch": "master",
+               "commit": "660bc61f9f0d835c5a5e7fb0280e9b34f429af41"
+          }
+     }
+}

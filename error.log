@@ -1,0 +1,8 @@
+[2022-03-10T15:46:45.878462+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.ERROR: This is error [] []
+[2022-03-10T15:46:45.880283+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.CRITICAL: This is critical [] []
+[2022-03-10T15:46:45.880849+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.ALERT: This is alert [] []
+[2022-03-10T15:46:45.881776+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.EMERGENCY: This is emergency [] []
+[2022-03-10T15:47:30.455390+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.ERROR: This is error [] []
+[2022-03-10T15:47:30.457801+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.CRITICAL: This is critical [] []
+[2022-03-10T15:47:30.458334+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.ALERT: This is alert [] []
+[2022-03-10T15:47:30.458975+01:00] Iqbal\Belajar\PHP\Logger\LevelTest.EMERGENCY: This is emergency [] []
